@@ -1,0 +1,6 @@
+pandas
+datetime
+requests
+selenium
+webdriver-manager
+tqdm
