@@ -1,0 +1,1718 @@
+,id,comments,n_comments
+100,1450224358,"Only backers can post comments. Log in
+No comments yet.",0
+101,929281757,"Only backers can post comments. Log in
+Ned FreedSuperbacker
+over 4 years ago
+In case anyone is interested, I have added support to the Arduino Nano firmware for GPS and automatic daylight savings time transitions. A fork of the code with the necessary changes is available at:
+https://github.com/NedFreed/TFWordclock
+The hardware mod necessary is quite simple: Attach a GPS module's Rx/Tx lines to digital I/O pins D4 and D5. With the new firmware in place the GPS will be detected and used automatically. The one second blinking LED is used as an indicator that the GPS is present and working: It now blinks in response to GPS data. (It's also a lot more accurate now...)
+The time zone offset and daylight savings time rules are all built in at compile time. A modified version of the time zone dump utility zdump is provided which can be used to dump the zone information in the correct format from any computer that has the necessary zone files.
+Comments are welcome.
+Chris Mazza
+over 4 years ago
+Just received my fully built world clock. Looks and works well. Texas, USA
+Anthony Clarke
+over 4 years ago
+Arrived Sydney, Australia... project for weekend :)
+Tom Hancock
+almost 5 years ago
+Arrived and assembled. will test tonight :)
+Stefan Misch
+almost 5 years ago
+I just wanted to let you know that the package arrived today in Berlin. :-)
+David M SaulCreator
+almost 5 years ago
+Alex,
+I am looking at this currently there are a couple of people who have offered to design enclosures, so I am waiting to see what they come up with there is also a third option I need to get back a supplier who does small runs of custom design, now I the final boards.
+Alex
+almost 5 years ago
+Hello David,
+Got my kit. All assembled and works just fine. I wonder if you were thinking about making a group order for a 3D printed case? Maybe you have one already developed?
+Thanks
+Alex
+nick liversidge
+almost 5 years ago
+Hi David
+Must just be me. Tried again to no avail. Also tried it on a different device. Would you have any suggestions?
+Thanks
+Nick
+David M SaulCreator
+almost 5 years ago
+Nick,
+Nick, It could be some temporary problem with Kickstarter, others have been able to respond ok. Suggest you try again later
+David
+nick liversidge
+almost 5 years ago
+Got my survey email today. Hurrah! When I press the respond now button nothing happens. Is it just me?
+Anthony Clarke
+almost 5 years ago
+Just joined �
+Any way of ""ordering"" an extra PCB?
+Steve Todd
+about 5 years ago
+Silly question, but as we seem to have stalled at around the £1800 mark, shouldn't @creator be doing something to drum up interest on the tech sites?",13
+102,77987340,"Only backers can post comments. Log in
+No comments yet.",0
+103,937135395,"Only backers can post comments. Log in
+No comments yet.",0
+104,2021330096,"Only backers can post comments. Log in
+No comments yet.",0
+105,2051110684,"Only backers can post comments. Log in
+No comments yet.",0
+106,1200921115,"Only backers can post comments. Log in
+No comments yet.",0
+107,604930825,"Only backers can post comments. Log in
+No comments yet.",0
+108,1358997817,"Only backers can post comments. Log in
+No comments yet.",0
+109,1886852477,"Only backers can post comments. Log in
+Tom
+over 2 years ago
+A worthy cause indeed. Good luck!",1
+110,1712227037,"Only backers can post comments. Log in
+No comments yet.",0
+111,1901077195,"Only backers can post comments. Log in
+Odin's CourtCreator
+over 7 years ago
+Thanks, Nina! Sound of Thunder rocks! \m/
+Nina Osegueda
+over 7 years ago
+Good luck, guys!! The Thunder is in your corner!",2
+112,87984212,"Only backers can post comments. Log in
+Carla HarnellCreator
+about 5 years ago
+Thanks for our project, please help us get on the 0 mark and building to that goal....29 goes in the blink of an eye or maybe two (wink) ��☕️�",1
+113,951126118,"Only backers can post comments. Log in
+Antonio Martinez
+almost 4 years ago
+I can't wait to know more updates! We need to start another Kickstarter right the way this finish!!!! :)))) I am getting used to these every day updates! ....and Happy birthday Mr LEO !!! :-D
+Leonardo CorbucciCreator
+almost 4 years ago
+Thank you all !!! Paul please send me a message here: cyborgs_tv_show@outlook.com
+Paul
+almost 4 years ago
+Hello Leonardo, I am Paul from the screening of your other movie in Hollywood, I would like to see the all Season of ""CYBORGS"" and have a special deal and support for all the episodes.... How do I do that????
+Antonio Martinez
+almost 4 years ago
+Great Job Leo! I love the Video explanation of the LEGENDARY INVESTMENT !!! Epic! Keep up the great video updates!
+Kim
+almost 4 years ago
+Leo when are you going to Cannes? Please continue to do Video Diaries from there!
+Juan
+almost 4 years ago
+Looking forward to the Table read event!
+Lorenza
+almost 4 years ago
+Go Leo :) bravo
+Leonardo CorbucciCreator
+almost 4 years ago
+Yes Chris I agree with you!
+That was also my point with some investors that will like to pushing me into the 60 minutes version of the TV SHOW. It's good to se what the audience think, also to show these data to the Producers that sometimes they think they are speaking for the audience :) thanks for this!
+FOR PEOPLE THAT DIDINT FOLLOW ALL THE DISCUSSION: IT was a polemic about make a 30 minutes Tv show (short but focus the money in production) or a 60 minutes version (with more story but less visual quality). All related from the fact we will have the same budget.
+chris
+almost 4 years ago
+Viewers not views
+chris
+almost 4 years ago
+Saw the update,
+I say 30 mins if you drag the story you might lose the views I say leave something at the end of each episode so we want more like a WTF moment like the old ""24"" series I use to watch those and loved it. The new ""24"" does not capture it to me. Don't know if it's the actor or the story.
+Leonardo CorbucciCreator
+almost 4 years ago
+Joe, you automatically receive the EXCLUSIVE VIDEO DIARY updates after a pledge! :) enjoy it!
+Joe
+almost 4 years ago
+Leo I did a pledge, now what to do for the Video Diary updates?
+Leonardo CorbucciCreator
+almost 4 years ago
+Thank you so much Chris, you are absolutely right... I am polishing the script and focusing right now, a lot of work a head, but with a great pleasure. Thanks again for the note
+chris
+almost 4 years ago
+Sorry to hear about the lost accept my deepest condolences for the lost of Tomas Milian R.I.P.
+It's kind of hard to be excited to hear about being published all I can say don't rush in finish cyborgs right now take your time.",14
+114,1994422365,"Only backers can post comments. Log in
+No comments yet.",0
+115,502108073,"Only backers can post comments. Log in
+Frost Dragon Designs, LLCCreator
+almost 3 years ago
+@PyrrhaIphis. I am so glad to hear that! I really hope this project gets funded. Even without stretch goals, that would be awesome! Thank you for backing!
+PyrrhaIphis
+almost 3 years ago
+I can't believe I only just now came across this campaign! These are so cute! And I'd love to play an RPG with characters like these...
+Frost Dragon Designs, LLCCreator
+almost 3 years ago
+Thank you, Jess! I truly truly appreciate it! It makes me so happy to know that my drawings have a life outside of my sketchbooks.
+Jess TurnerSuperbacker
+almost 3 years ago
+Super cute! I always back your projects as you do such great design and the pins are great quality!",4
+116,1421696844,"Only backers can post comments. Log in
+No comments yet.",0
+117,855503208,"Only backers can post comments. Log in
+No comments yet.",0
+118,458184835,"Only backers can post comments. Log in
+Darrel AndersonCreator
+over 8 years ago
+Hi Robertus,
+Thanks.
+Good idea on the Concept Art Rewards, I just added an option for all 8 ($40).
+Best Wishes,
+Darrel
+Robertus
+over 8 years ago
+Hi Darrell,
+Yes, clear and take your time about the quality of the models, sure
+I was looking at the 8 available packages
+There is a pledge with a max of 5, I was pointing in this direction ;)
+To me I would gladly spent some extra for a pledge with 8 packs (and to support the project via this route)
+Succes!
+Darrel AndersonCreator
+over 8 years ago
+Thanks Artie, we are very excited about it, ant woking hard to make it fly.
+Hi Robertus,
+Thanks for the feedback. Nice to see another GroBoto owner/artist here.
+We will release several models very quickly after funding is achieved. However, there are only a few that are ready for release. For most models, significant work is needed to get each one ready.
+That is, naturally, the purpose of the project ...to support the work needed to prepare each model for release. It's vital to refine and organize the models so that each is truly useful to other artists. I would not want to simply dump all of this work — in its raw creatively-cahaotic state — out there in the world. That would likely lead to problems and frustration for those endeavoring to use the work.
+If the work was ready for distribution, there would be no real need for this project. That said, we will do everything possible to release the models quickly — I was perhaps a bit conservative in my projection of the pace, but wanted to insure that I was allowing enough time to release quality models.
+About your suggestion for 'pledges with more digital copies' -- what were you hoping to see? More Concept Art Packages, or was that part of your notion about including models in the rewards?
+In any case, please know that I am as anxious to make these models available quickly as you are to have them in hand.
+Best Wishes,
+Darrel
+Robertus
+over 8 years ago
+I already have a Groboto license
+It would be nice to have pledges with more digital copies ?
+The native Groboto files / obj formats: it would be great to have them earlier
+They are already planned to be available if I have read well
+It will pull people I think / hope if these files are added somehow at pledges and via this way earlier available to backers ?
+Artie Romero
+over 8 years ago
+This project rocks!
+:D",5
+119,1628973098,"Only backers can post comments. Log in
+albertSuperbacker
+almost 2 years ago
+Received in Australia today, thanks heaps!!
+Petra Willems
+almost 2 years ago
+I received my Fawkes pin today and it is gorgeous! Love the card with it and my extra order of the Bee Strong pin. The material is much thicker than I expected and makes it a really high quality pin.
+Lindsey WernerSuperbacker
+about 2 years ago
+Would you consider making the “patronus form” of the Phoenix be silver plated instead of gold?
+Charlotte AppleyardCreator
+about 2 years ago
+Sorry, I wouldn't be able to! I have to buy everything in minimum quantities of 100 and it would be too expensive to get some made in silver also :(
+Lindsey WernerSuperbacker
+about 2 years ago
+What is the chain length on the necklace?
+Also- is the necklace considered a “pin” where it’s shipping will get automatically upgraded to tracked?
+Charlotte AppleyardCreator
+about 2 years ago
+The necklace chain will be between around 20£
+Yes this is included in automatic upgrading where able. I would still recommend leaving a paypal address if you are wishing to have upgraded shipping just in case.
+L Lau
+about 2 years ago
+How do I get 2 necklaces?
+Charlotte AppleyardCreator
+about 2 years ago
+If you leave your PayPal in the reward survey ill send you an invoice for the extra cost of the necklace",8
+120,1194625221,"Only backers can post comments. Log in
+Dan PritchettSuperbacker
+over 6 years ago
+Did you end up posting any pics anywhere?",1
+121,643979114,"Only backers can post comments. Log in
+Paul Chapman
+6 months ago
+It's 4 years since I backed this game as a Diamond Supporter. Other than a Steam Key I have received none of the other perks promised (Digital artwork, soundtrack, etc)
+ChaosForge LtdCreator
+6 months ago
+Currently we're focused on getting the game to 1.0 - hard at work with that, we're releasing at least one new update each month. Soundtrack is way from finished, same with the art for the artbook. We'll be fulfilling the regular perks closer to 1.0 release, stay tuned!
+Paul Chapman
+6 months ago
+Ok, I wasn't sure whether they'd all been produced and sent out.
+Thankyou for the quick response, appreciate it :)
+Pater Alf
+8 months ago
+Any news on the GOG keys? I don't understand why we didn't get them by now. The game is on that store for a long time now (In Development) and still you are not giving us access. :(
+ChaosForge LtdCreator
+8 months ago
+As written in the reward description : ""Get EARLY ACCESS to the game once it goes live on Steam or wait a bit and get a DRM free key at full release!"" Also we never promised GOG keys explicitly, and have a limited access to those. However DM me and I'll hook you up with one!
+Matt Fellows
+9 months ago
+Hi - I completely forgot I backed this game until I logged into Kickstarter today for the first time in a couple of years. It looks like it's all gone well, except I have no idea how to get my steam key to play. I'm assuming my email went into spam a while ago, and thus has been lost to digital oblivion... Can anyone help?
+ChaosForge LtdCreator
+9 months ago
+Please PM us through Kickstarter and we'll sort you out :)
+Kristoffer
+about 1 year ago
+I've been playing this quite a lot by now, I like what has been done and where it is going. But I am missing the very thing I wanted most of all. ""Pure ASCII mode"" was promised boldly in the campaign and otherwise I would not have backed it. Please get this working! I am sure there are many other backers that care as much about this is I do and are still waiting impatiently.
+ChaosForge LtdCreator
+about 1 year ago
+The mode is actually in the game (accessible by passing --console on the command line - this is pure SSH compatible ASCII output) but it's a bit broken - we need to put aside some time to fix and polish it, however we're crunching on more important (for the general populace ofc) features like melee and master traits, so it will take a bit more until we can sit and focus on ASCII mode. Apart from pure ASCII we will probably have also terminal emulation, and both of those features will be polished before 1.0 release!
+Kristoffer
+about 1 year ago
+That's great to hear, I'm waiting impatiently! :)
+Dainius Sileika
+over 1 year ago
+Can we have an update on GOG keys, and the availability of JH for mac users on GOG? Can't wait to get off of Steam :D Thanks!
+Showing 3 of 4 replies
+Load previous replies
+Dainius Sileika
+over 1 year ago
+Or maybe there can be a ""backup player data"" button added, so that those of us on Steam waiting for GOG can export or info and levelling? Again, I don't even want to win on Steam if I'm going to have to start again on GOG :P
+ChaosForge LtdCreator
+over 1 year ago
+Once you have it on GOG, you just need to copy player.dat and score.dat to the new folder!
+Dainius Sileika
+over 1 year ago
+No word yet on GOG keys though?
+ChaosForge LtdCreator
+over 1 year ago
+We've sent out keys to all people that seem to have missed them - if you still didn't receive your key, PM us!
+If you bought the itch.io BETA, you weren't sent a key - you'll have it via itch io in a matter of days!
+Bruce Ironstaunch
+over 1 year ago
+Good to see it's in Early Access, where do we pick up our backer keys?
+Showing 3 of 4 replies
+Load previous replies
+Phil HarveySuperbacker
+over 1 year ago
+I have checked my spam folder and do not see a key.
+Bruce Ironstaunch
+over 1 year ago
+Ah, cheers, I somehow overlooked it. Thanks guys!
+spags
+over 1 year ago
+I don't see a key either. Also, I have checked my spam folder and do not see a key either.
+Psykokow T MadKow
+over 1 year ago
+I am a little confused, I think at my Initiate backing I should have an access key? Or am I wrong.. I know it said Player, Metalhead or Deluxe... and I don't know if that is including me. Im having a confused day anyway.. I have no email in spam or trash... if you could check and see if I am meant to have access or not and maybe re-send the email please.
+ChaosForge LtdCreator
+over 1 year ago
+The keys were sent out to the e-mail provided to kickstarter - search your e-mail for Jupiter Hell (and check the spam folder!)
+Dan Cook
+almost 2 years ago
+Hello, Love the sound of your project. You mentioned accessibility support in the project, and as a blind gamer with a love of rpgs, I was wondering what that would entail?
+bornhald
+about 2 years ago
+any chance of another update comming soon? :)
+what you have shown looks great, eager to see more
+Azuvector
+over 2 years ago
+Given Jupiter Hell's inspiration, is something like the BFG9000 or BFG10k in the game?
+ChaosForge LtdCreator
+over 2 years ago
+Absolutely :)
+ChaosForge LtdCreator
+over 2 years ago
+@Phil Harvey - we're careful about giving exact dates, but we want to release the game into EA in a relatively completed and polished state - so in EA we'll focus on mostly adding content. We're aiming April-May next year if all goes according to plan
+Phil HarveySuperbacker
+over 2 years ago
+When is early access expected? Still Nov delivery?
+ChaosForge LtdCreator
+almost 3 years ago
+@Janine Love - we're at Alpha stage now, soon going into Beta - the downloads are available for backers of matching tiers. Once we get to Early Access (coinciding with Steam Early Access) we'll e-mail all backers their steam keys :)
+Janine Love
+almost 3 years ago
+How do we get information on downloads and such? Have never received anything. Thank you
+ChaosForge LtdCreator
+almost 3 years ago
+@David Mauro register on the forum with the same e-mail as the one you use on kickstarter, then wait a bit until a friendly deamon automatically matches the accounts. If you can't or don't want to use the same e-mail, login to the forum and message Kornel Kisielewicz with your backer number and kickstarter e-mail, to get added manually.
+David Mauro
+almost 3 years ago
+How do I link my kickstarter account to my Chaos Forge forum account so that I can download the alpha?
+ChaosForge LtdCreator
+almost 3 years ago
+@Joseph S. we don't want to promise deadlines that we aren't 100% sure we can keep, but the Beta should be out within 6 months.
+Joseph S.
+almost 3 years ago
+Congrats on launching the Alpha! Can you give us a sense of when to expect the game to be delivered to the rest of us regular backers?
+ChaosForge LtdCreator
+about 3 years ago
+@John Pellen - our forum moderators have a weird sense of humor -_-
+John Pellen
+about 3 years ago
+Got it to work... kept re-registering until it didn't ask that question.
+John Pellen
+about 3 years ago
+Trying to download the alpha through the forum link.... ""First name of owner of this forum"" ??
+Barry Pitcher
+about 3 years ago
+No problems, just checking in. Thanks for the response
+ChaosForge LtdCreator
+about 3 years ago
+March 15 is our internal deadline for the Alpha release, we'll do a big update to coincide with it :) - before that we'd rather make sure that the Alpha release is worth playing!
+Barry Pitcher
+about 3 years ago
+Any chance of another update soon?
+Showing 25 of 268 comments
+Load more",284
+122,580643714,"Only backers can post comments. Log in
+No comments yet.",0
+123,1602973289,"Only backers can post comments. Log in
+No comments yet.",0
+124,914288330,"Only backers can post comments. Log in
+James Bertsch
+3 months ago
+so when will we see the full game??
+FreeMindCollaborator
+3 months ago
+We still need 4 to 5 months of work to be able to release the project in Early Access mode.
+Pierre Seifert
+4 months ago
+Congrats to get the game funded @ Kickstarters.
+Cant wait to get my hands on the newest version (beta) of the nice and funny game.
+nice work, thanks all other 354.
+James Bertsch
+4 months ago
+Where do i get a demo key? Supported a couple days ago. really doesnt matter cause i know you will have the support you need to create the whole game.. Looks amazing, keep up the good work...
+FreeMindCollaborator
+4 months ago
+Look at messages section on KickStarter, there you will find yours key. Thanks for your support and wishes :)
+darragh
+4 months ago
+hi i did not receive a key
+Eduard Dajčman
+4 months ago
+Hey guys, the game looks great! Is it coming in December? Can't wait! Many greetings from CROATIA!!!
+P.S. Hope to get my Demo key soon, and game key of course :)
+Boitel Chamber Jenser
+4 months ago
+Hello. Please send me the Key. I supported you...
+Jon Magnusson
+4 months ago
+I cant find my Demo Key in my mail ;(
+FreeMindCollaborator
+4 months ago
+Check it now :)
+Jon Magnusson
+4 months ago
+:) :) :)
+Юрий Бережной
+4 months ago
+Where is my demo version of the game?
+FreeMindCollaborator
+4 months ago
+We allready send massage to you with your Steam Key to demo. Have a fun :)
+Sarah Paine
+4 months ago
+installed the demo. Opened it, had to reboot my computer as EVERYTHING crashed.
+I'm guessing it's not playable under windows 7 ?
+*uninstalled* (there is a new PC on the way, just thought I'd try it on this older one, which is still decent spec!).
+FreeMindCollaborator
+4 months ago
+Game will work well on Windows7.
+Let us know if this crash will be happen again.
+Sarah Paine
+4 months ago
+Yes,. happened again. I load the game, am able to select ""tutorial"". The splash screen appears, I hear birdsong. Then everything stops.
+And I mean everything. Control panel won't respond, nothing except actually powering down the PC. Major huge crash.
+I won't try again on this PC, I will try again on my new one which arrived, and let you know if that works. But my current PC (apart from being windows 7) is a reasonable spec gaming machine that runs pretty much everything, so I'm a little puzzled why it's not behaving with Farmer's Life. Can send system specs if it would help you?
+Sarah Paine
+4 months ago
+I checked further down in the comments and saw where the log files are. I've emailed the log files from yesterday's crash, and today's. The log files stop at exactly the same point, so that's presumably where it's worth looking first.
+Best wishes, Sarah
+Юрий Бережной
+4 months ago
+Supported the project for 13$, waiting for a demo and a key. Good Luck To You!!! RUSSIA is with you!
+FreeMindCollaborator
+4 months ago
+Many thanks and best regards from Poland :)
+Garnier
+4 months ago
+Hi, follow your work from France. Hope you reach 10K ;p
+FreeMindCollaborator
+4 months ago
+Thank you very much. We hope 10k and more :)
+Garnier
+4 months ago
+when can i expected to recived the demo plz ? i m so excited
+FreeMindCollaborator
+4 months ago
+Done :) have a fun :)
+FullFamily
+4 months ago
+hello I supported your project I await my reward! Can I do a live on my Youtube game channel ??
+PlayWayCreator
+4 months ago
+Sure, you can do live anywhere you want :)
+Alexis Peczinka
+4 months ago
+hello, still waiting for my demo key, backed this day, TY
+PlayWayCreator
+4 months ago
+Done :)
+Brian
+4 months ago
+So far i really love this game its great you is one of the best farming games out there right now. i mean there are a few bugs ive noticed when you drop stuff it didnt let me pick it back up . other than that i see lots of potential for this game.
+Brian
+4 months ago
+also when i get to the hit new game section i turned off help guidelines any way to turn that back on.
+Brian
+4 months ago
+finished the demo wanted to say id be happy if this game was released as wip game where we play it as it keeps getting upgraded :)
+FreeMindCollaborator
+4 months ago
+Thanks to your support, the full version of the game will appear on the market soon :) Thank you very much.
+Claude M.
+4 months ago
+Played the demo, it sure is rough around the edges. Crashed once while riding the bike drunk, then it wouldn't register me finishing the field being plowed. In the third run I got through to the end of the demo. Definitely needs a lot of work, but I'm looking forward to it.
+FreeMindCollaborator
+4 months ago
+We work hard to polish our game as possible. Thank you for all feedback we receive.
+Brian
+4 months ago
+how do i get my demo
+Brian
+4 months ago
+please and thanks
+FreeMindCollaborator
+4 months ago
+To Activate a DEMO:
+1. Open STEAM
+2. Click in the left down corner ""Add Game...""
+3. ""Activate a Product on Steam""
+4. Paste your code
+Enjoy the game and please spread the word about it!:)
+Danny Dellow
+4 months ago
+still waiting for my demo key, backed this yesterday
+FreeMindCollaborator
+4 months ago
+Done :) have a fun.
+dec
+4 months ago
+Have u a joystick plugged in ?
+DJGEEKS
+4 months ago
+no just a standard corsair k55 keyboard
+DJGEEKS
+4 months ago
+I have found a bug, but cannot see where to submit, when I start the game the camera keeps spinning I am unable to stop this movement no matter what I do
+dec
+4 months ago
+My demo also was crashing on loading ,u need to turn off and hud apps like monitoring temp apps and run as admin ,this fixed it for me.
+Matthias Renner
+4 months ago
+Hi devs! Is it permitted to stream the demo on twitch and/or - provided that there are no major bugs or crashes - put it on Youtube?
+FreeMindCollaborator
+4 months ago
+Sure, you can stream our game, anywhere you want.
+Matthias Renner
+4 months ago
+Dziękuję bardzo! 👍😊
+This person has canceled their pledge. Show the comment.
+FreeMindCollaborator
+4 months ago
+Thank you for your information. Please, send log file to info@freemind.games
+This person has canceled their pledge. Show the comment.
+FreeMindCollaborator
+4 months ago
+c:\Users\USERNAME\AppData\LocalLow\FreemindSA\FarmersLife\Player.log
+Marcel Schuster
+4 months ago
+wird es auch eine Singel play möglichkeit geben also offline?
+Marcel Schuster
+4 months ago
+sorry falsches Projekt gewesen einfach diesen Kommentar Ignorieren
+Falien
+4 months ago
+Have my eye on this game for a little while.
+Downloaded the beta a week ago, but its gone from Steam.
+So checked it out, found this Kickstarter.. so backed it :D
+Can't wait for this game.. And can't wait to try it out..
+Falien
+4 months ago
+(wanted to try the demo today for the first time, but it was gone xD
+FreeMindCollaborator
+4 months ago
+thanks for your support!
+Mielnicki Farmer
+4 months ago
+I waiting for my demo key, I backed yesterday
+FreeMindCollaborator
+4 months ago
+Done, enjoy! :)
+Showing 25 of 29 comments
+Load more",61
+125,1508599274,"Only backers can post comments. Log in
+No comments yet.",0
+126,1226660346,"Only backers can post comments. Log in
+Jess DempseySuperbacker
+over 2 years ago
+Also brains are dumb. Don’t listen to it when it says you shouldn’t be confident. You do amazing work!
+Frost Dragon Designs, LLCCreator
+over 2 years ago
+Easier said than done, but I will try to keep that in mind. :)
+Jess DempseySuperbacker
+over 2 years ago
+Howww do I have mine already?? (I know it’s because you pre made them) but this is just amazing. They’re beautiful as always.
+Frost Dragon Designs, LLCCreator
+over 2 years ago
+I am so glad to hear that they got to you safely! Yes, I really try to pre-make my pins when I can afford to. It gives me piece of mind to know exactly how many I have without defects. One of my earlier designs had an enormous defect rate (over 50%) and another had entirely wrong colors that I didn't notice in the factory photos because of the lighting. I got replacements and still met my shipping estimate, but it really stressed me out, LOL.
+I always make sure that my KS friends have first crack at any new designs, since without this community, I wouldn't have ever been able to get this endeavor started.
+BJ SimpsonSuperbacker
+over 2 years ago
+Received mine and it looks great, thank you.
+Frost Dragon Designs, LLCCreator
+over 2 years ago
+You are very welcome, and thank you for supporting my projects!
+Jess DempseySuperbacker
+over 2 years ago
+It’s so good to see a successful campaign for you again, this time with no comments!! It goes to show everyone has faith in your products :) looking forward to my kitties!
+Frost Dragon Designs, LLCCreator
+over 2 years ago
+Thank you Jess! I kind of thought that after a year of doing these I would feel settled and more confident in my designs, but now I'm starting to think that that sort of confidence just doesn't jive well with many creatives like myself. So thank you very much for the words of encouragement, they mean a lot!",8
+127,1491282210,"Only backers can post comments. Log in
+No comments yet.",0
+128,2008225117,"Only backers can post comments. Log in
+Glee Violette
+over 6 years ago
+Danny, it was a GOOD effort, and shows that the support is there. My pledge is still good. Keep going. You WILL make it!",1
+129,486356651,"Only backers can post comments. Log in
+Margaret Lee
+over 5 years ago
+Well done and wishing you every success in Edinburgh.
+Jake Tilson
+over 5 years ago
+Brilliant - well done on raising all the money!!",2
+130,809453165,"Only backers can post comments. Log in
+No comments yet.",0
+131,1524862369,"Only backers can post comments. Log in
+Kat Eller
+about 2 years ago
+My cubs arrived at the inward office of exchange in New York this afternoon! I know they're probably going to spend a lot more time in Customs or wherever, but I'm just really happy and relieved that they're getting closer!
+If anything happens with those fuzzy versions that you posted on your Facebook, uh...I might want to buy myself some fuzzy Sugar Cubs too, because they look so nice to touch, but for now I am so going to treasure these Kickstarter plushies.
+Nelly Georgieva
+about 2 years ago
+People, did it ever crossed your mind that sometimes unexpected things happen?
+They appologised so many times for the delay! Stop pushing and be patient! I am sure that they are worth waiting! It's their first project and it is totally understandable that they might not provided themselves with a back up plan in case something went wrong... We all make mistakes! Let's be good to the people that engaged themselves in this project. It's not as easy as most of you may think... ❤❤❤
+Martin Prakasa
+about 2 years ago
+I need an update for the secondary production
+Joe
+about 2 years ago
+Kat: Well that’s reassuring. I’m still mad about it. If I order a pizza, let me know when it’s still in the oven.
+Kat Eller
+about 2 years ago
+I totally agree. To say that we'd get our plushies in December and then push it back to January and then fall absolutely bloody silent is really rude. How hard is it to log in to Kickstarter and post an update so we don't have to chase you down on Facebook?
+Joe
+about 2 years ago
+I’d highly suggest if you didn’t receive your package to report the campaign. It’s simply unprofessional that we get radio silence for weeks and no updates. I’m honestly at the point where I want a refund.
+Kat Eller
+about 2 years ago
+I kept posting to their Facebook page and finally got told that they just got the secondary production plushies in. I'm getting really antsy. I want the bears more than I want the refund, but give us bloody SOMETHING. :( :( :(
+Erick Recio
+about 2 years ago
+Hi! I'm from Mexico and I backed for primary production, The tracking number shows: Retention Feb 6 Handling office（MEXICO）
+byoshin
+about 2 years ago
+I haven't received my package yet.
+i followed the tracking number you sent me and it says that left from tokyo on December 13th
+Could you please tell me how long it is going to take to get to Greece?
+Luis Felipe Romero Mejía
+about 2 years ago
+Hola, ¿Hay alguna noticia de la producción secundaria? Sería bueno que dijeran con más certeza las fechas aproximadas para la entrega de los paquetes.
+Ken I.
+about 2 years ago
+Patiently waiting for the arrival of the secondary production. 🥰
+Joe
+about 2 years ago
+Need an update guys. It’s technically February where you are.
+Manuel Rodriguez
+about 2 years ago
+Hey what’s wrong with secondary shipping?
+john latimer
+about 2 years ago
+Hey, still no updates, what’s going on?
+Kat Eller
+about 2 years ago
+I feel like I am living for these little cub plushies. The day that you post and say that they've shipped will be second only to the day that they finally arrive and I get to open that box with my trembling fingers.
+Nolan Sengson
+about 2 years ago
+Hi Sugarcubs! Any news or updates for second production? Eager to have our plushies. 😊 Thanks!
+Jamie Kim
+about 2 years ago
+I'm in the US and mine has been stuck in the customs since Christmas Eve with no further update... Anybody else in the same situation? Does anyone know the original tracking number will work past the customs, after USPS or Fedex takes over? :(
+Sugarcubs_QuanCreator
+about 2 years ago
+https://tools.usps.com/go/TrackConfirmAction?tLabels=RR848242246JP+
+It seems post officer tried to deliver them during your absence
+If you fail to deliver after several attempts, please be sure to pick it up!
+Andrea Ortiz
+about 2 years ago
+Hello!
+I'm from Mexico and I backed for Primary Production - Are there any news? The tracking number shows no more information since a while.
+Thank you in advance.
+Sugarcubs_QuanCreator
+about 2 years ago
+In case of Mexico, it is experiencing delays due to local post office problem.
+Most reward to go Mexico seems to have begun shipping on Christmas Eve.
+Eliany Seife
+about 2 years ago
+Got my plushies today 😍 they are perfect 💓
+Sugarcubs_QuanCreator
+about 2 years ago
+Thank you 💓
+Kevin Mtz
+about 2 years ago
+Hello, I received a tracking number via email but it doesn't work, it hasn't been showing where the plushies are even though I backed for primary production
+Sugarcubs_QuanCreator
+about 2 years ago
+Sorry for the tracking code problem.
+We are also checking why they are not working.
+Post office said just
+'Depending on the region, the update delays may occur.
+Sorry for this problem.
+Jenny
+about 2 years ago
+Any updates for secondary production?
+Sugarcubs_QuanCreator
+about 2 years ago
+Sorry for the delay.
+Please check our message!
+Tyler Vo
+about 2 years ago
+Hello! I've been notified that the package has been sent out for Final delivery but I have not received the package. Is there any way I can get help on tracking the package? Thank you so much!
+Tyler Vo
+about 2 years ago
+Just kidding :) Thank you for your hard work
+Sugarcubs_QuanCreator
+about 2 years ago
+You got them?
+Luis Velazquez
+about 2 years ago
+Hello sweethearts!
+I have received my tracking number but it seems that it is not being updated. Can you help me? It marks a date of July 2018 :(
+Thank you very much!
+Sugarcubs_QuanCreator
+about 2 years ago
+Sorry for the tracking code problem.
+We are also checking why they are not working.
+Post office said just
+'Depending on the region, the update delays may occur.
+Mas Ma
+about 2 years ago
+I received the plushies!!! Thank you!!
+They are so cute!!
+Sugarcubs_QuanCreator
+about 2 years ago
+Love You :D
+Joneson Gao
+about 2 years ago
+I am waiting for the tracking number, is everything okay?
+Rich Yang
+about 2 years ago
+Still have not recieved my tracking number...
+Alan Yip
+over 2 years ago
+Hello! I haven’t gotten a tracking number yet, is it okay?
+Showing 25 of 38 comments
+Load more",54
+132,769340648,"Only backers can post comments. Log in
+No comments yet.",0
+133,889838700,"Only backers can post comments. Log in
+No comments yet.",0
+134,1452057037,"Only backers can post comments. Log in
+Daniel Chaim Robbins
+about 3 years ago
+Congratulations!!",1
+135,1793089004,"Only backers can post comments. Log in
+No comments yet.",0
+136,1054095031,"Only backers can post comments. Log in
+Ivan SavovSuperbacker
+over 1 year ago
+wish you luck!",1
+137,737677403,"Only backers can post comments. Log in
+No comments yet.",0
+138,1765089981,"Only backers can post comments. Log in
+Helen Cowart
+over 7 years ago
+Congratulations!
+Richard Bell
+over 7 years ago
+I worked with Jeremy extensively while he was in Chicago. Jeremy is a very hard working and creative artist. I have always been impressed at his ability to conceptualize and execute elaborate projects. I put my full support behind anything he puts his mind to and if he were here I would contribute my time to his project.",2
+139,1876259591,"Only backers can post comments. Log in
+No comments yet.",0
+140,1764571496,"Only backers can post comments. Log in
+JamesSuperbacker
+about 1 year ago
+Need help with my printer and firmware. Webside is down. Help please.
+Martin Gerken
+almost 3 years ago
+Hey, the forum http://trium3d.proboards.com/ was closed down.
+Why?
+Any alternatives (no facebook, please)?
+Martin Gerken
+about 3 years ago
+@KevSchechner: schau mal in Forum http://trium3d.proboards.com/ bin da aktiv!
+KevSchechner
+about 3 years ago
+Need help by the software �
+KevSchechner
+about 3 years ago
+Is here some german guy who can give me some Support?
+E-MERGIN InnovationsCreator
+about 3 years ago
+@Matthieu : see your PM
+Matthieu BENAT
+about 3 years ago
+Bonjour, l'assemblage de mon imprimante est fait, mais je ne trouve pas le firmware. Il semble que votre site ne fonctionne plus ? Est-il possible d'y avoir accès s'il vous plait ?
+Merci, et bonne année.
+don numinen
+almost 4 years ago
+Unfortunately mine was non working when it arrived and is still non working, expensive pile of parts. Cant even find someone to give me 500 for it and it was assembled by emergin team unfortunately not tested though, looks good on the shelf just wish it would work. Don
+JohnSuperbacker
+almost 4 years ago
+Please respond to emails, waited a week now...
+Michael Ring
+almost 4 years ago
+Thanks for making the balls available, but there must be another way for shipping, Fedex id complete overkill, for me it would cost $50 for shipping for something that easly fits in an envelope.
+Jean Marc Cierniewski
+almost 4 years ago
+Hello.
+The coupon code don't work in the shop...
+And for the more, can you add other shipping solution. Fedex, 21€ to send 3 springs is very very very expensive ( and fedex need to be ""at home"").
+Thank you
+Michael Ring
+almost 4 years ago
+There are no 8mm magnetic balls in the shop, will you add those?
+Martin Gerken
+almost 4 years ago
+I got an USB cable but it was very short.
+For assembly hints go to the forum and look at a very detailed description from a user.
+Daniel Turner
+almost 4 years ago
+@Luke Cardellino I don't know if a USB cable was supposed to be included, but you don't need one. The printer is best run by loading programs on an SD card and using the LCD controller to start prints.
+Matthieu BENAT
+about 4 years ago
+Hello, I received mine previous week :)
+I had the same surprise than @Luke Cardellino. If I remenber well we chose a color. Normal ?
+A second question, Do you have, in stock the video number 15 - 17 -18 ? I don'y know how to assemble the head of my printer (not a diamond head) nor I know how to finissh assembling.
+Thank you per advance.
+Luke CardellinoSuperbacker
+about 4 years ago
+Was there supposed to be a printer cable included in the package? I did not get one. Sort of defeats the purpose of getting the plug and play assembled version.
+E-MERGIN InnovationsCreator
+about 4 years ago
+@Alexander : Take a look in your MP, I sent you the tracking number last Tuesday.
+Alexander KomarovSuperbacker
+about 4 years ago
+Thank you for the update about last remaining shipments. I have not received a tracking number, neither in spam. Could you please suggest? Thank you!
+Matthieu BENAT
+about 4 years ago
+Same for me.
+J'attends avec anxiété.
+Gustaf Lansner
+about 4 years ago
+Same here... Hope you haven't forgotten about my order...
+Manuel Torrecilla
+about 4 years ago
+Here... I'm anxiously waiting...
+Roberto
+about 4 years ago
+Printer pack received. I can't wait to assembly it. Thank you team!
+E-MERGIN InnovationsCreator
+about 4 years ago
+@All,
+The last assembled printers are finished and ready to be send.
+The last kits are on going and should be finished this week end.
+So normally we should be able to send all the last printers the next Monday :-)
+Regards,
+Aubry
+Sam T.Superbacker
+about 4 years ago
+@creator
+Can you provide us some insight into how many kits are still left to be sent and what your expected timing is on sending them out?
+Seeing all the activity on your facebook page makes us quite eager to join in on all the fun �
+Malte
+about 4 years ago
+Happy new year!
+Do you have a schedule for the delivery of the kits?
+Showing 25 of 775 comments
+Load more",775
+141,434898193,"Only backers can post comments. Log in
+Katherine McCormack
+about 1 month ago
+Absolutely love everything I received!
+Lucy Archer
+about 1 month ago
+Has anyone else done the math and noticed that with 618 backers spending $42,790 we each spent an average of $69?
+Jesse Riggs
+about 2 months ago
+Just got mine, and I am *floored.* It's everything I wanted and more! Thanks so much!
+One question: I shared this on a Locked Tomb Facebook group, and a lot of people who missed the kickstarter expressed an interest in... all of the things. Is there a place I can direct them, in case there are any extras?
+MayticksCreator
+about 2 months ago
+Hi Jesse!
+So happy to hear you're enjoying your boney goods! I've set up a mailing list so interested parties can be notified when the left-overs go up on my Etsy store!
+It can be found here:
+https://forms.gle/cefPRWDWQLHjY6VL6
+Lots of love,
+Mayticks.
+Jesse Riggs
+about 2 months ago
+Aaah, that's so wonderful! I'll make sure they get the link. Thanks so much!
+Tobias Holgier
+about 2 months ago
+Got mine today, wonderfully made pins. Kinda sad I didn't have enough money for the whole set now!!
+MayticksCreator
+about 2 months ago
+Hey Tobias!
+Glad to hear you're enjoying your merch! I will have a bit of everything available on my Etsy store for as long as they last - including some B and C grade pins. Perhaps you'll get another chance for the rest? <3
+- Mayticks.
+Rachel Wake
+about 2 months ago
+My order just arrived and it's almost perfect, but it looks like one of the items was damaged during shipping - what's the best way to contact you about this?
+MayticksCreator
+about 2 months ago
+Hi Rachel! You should be able to send me a private message through either KickStarter or BackerKit!
+Looking forward to hearing from you!
+Mayticks
+JKSuperbacker
+about 2 months ago
+Hi - I don’t think my emails are getting to you. Did you get my recent Kickstarter message?
+Heather Tran
+3 months ago
+Hi there, if I completely missed the emails about the BackerKit survey, is it too late to fill it out? I backed the max of $128, so I figure I'll just get one of each anyways. Is it too late to do add-ons? Thanks and sorry! (I also posted this on Twitter but didn't know where the best place to say this was!)
+MayticksCreator
+3 months ago
+Hi Heather! I have sent you a PM through KickStarter!
+Rose
+4 months ago
+Hey I thought the patches were 12 each? On backer kit they come up as 14. And will the soup pin just come automatically? (:
+MayticksCreator
+4 months ago
+Hey there Rose!
+Excellent catch on that typo! $14 was the bookmark, not the Patches! I've now altered the price in BackerKit, which applies to everyone's orders instantly. Thanks for the heads-up! As for the Soup Pin, it should automatically be in your cart when you get to the add-ons section! If it doesn't show, please let me know and I can fix that up for you.
+Have an excellent day!
+- Mayticks.
+Lisa-Michelle McMullanSuperbacker
+5 months ago
+Is there a way to recover our survey? I did not receive one.
+Zephryl
+4 months ago
+https://unlocking-the-tomb.backerkit.com/ Go here and insert your email address, it will resend a survey to you. If you still don't get one, you should PM Mayticks directly.
+MayticksCreator
+4 months ago
+Hi Lisa!
+I just went to resend your survey, but it looks you've found it! Please let me know if you have any other dramas. <3
+(Also, thanks Zephryl!)
+- Mayticks.
+Juan GomezSuperbacker
+5 months ago
+Are the pins with one clasp or two? Wouldn't want them to spin around and get scratched in me bag.
+MayticksCreator
+5 months ago
+Hi Juan - the larger designs will have two clasps, but (for example) the 9th House pin will not due it's size and shape!
+Thanks for your question, have a wonderful week!
+- Mayticks
+CatknifeSuperbacker
+5 months ago
+How many oz is the mug?
+MayticksCreator
+5 months ago
+Hey there Catknife!
+The mug is 12oz/350ml, perfect for a bracing cup of tea (or soup)!
+I'll add that to the campaign page now, thanks for the reminder!
+Warm regards,
+Mayticks.
+CatknifeSuperbacker
+5 months ago
+Cheers, thanks.
+Matt T.
+6 months ago
+I have a quick question about the bookmark. Does the bookmark have actual glitter on the metal (like the kind that can rub off and end up in all the places) or is more just like glittery metal? Thank you!
+MayticksCreator
+6 months ago
+Hi Matt!
+That's a really important question! The glitter is added to recesses in the metal in an enamel base, and then for extra safety and smoothness, these bookmarks will be finished off a clear epoxy layer on the top. That glitter shan't be going anywhere it shouldn't!
+I'm going to post an update with a video showing some of my other designs manufactured through my current company so I can better demonstrate what I mean, so keep an eye out for that!
+Warmest regards,
+Mayticks
+Matt T.
+6 months ago
+That's amazing, thank you so much for the reply AND video! Now I can't wait to get my bookmark :)
+Katherine McCormack
+6 months ago
+I am so excited for this! I can't wait to see what else you add! Only downside of this kickstarter is it makes me keep looking for the fancy version of Gideon because I was late to the bone party. But I figure if I avoid paying crazy ebay prices for the book, that means I can buy all the things on the kickstarter, right?
+MayticksCreator
+6 months ago
+I think missing out on the fancy Gideon book absolutely means you're well within your rights to purchase whatever merch you want!! Go ham!!
+Lots of Love,
+Mayticks
+Grace Paterson
+6 months ago
+I just want to say that I am super excited for the mugs! Amazing work!
+MayticksCreator
+6 months ago
+Hi Grace,
+Thank you so much for your enthusiasm - I'm so excited to see them in person, too!
+- Mayticks.
+Ace Tayloe
+6 months ago
+Very excited! Will there be ways to get, say, one patch in addition to pins?
+MayticksCreator
+6 months ago
+Hi Ace!
+Absolutely! Once the campaign has ended and we've sent out the BackerKit surveys, you'll be able to add whatever you like to your current pledge. I'm going to add the pricing to the campaign page as it becomes available for each item so that you can add it to your pledge whenever you like, or simply wait for BackerKit and add it then!
+Thank you so much for your support on this project!
+Warm regards,
+Mayticks.
+Kristen Van DamSuperbacker
+6 months ago
+So stoked for this! But confused! How do we get the unlocked items (or more pins for that matter)?
+MayticksCreator
+6 months ago
+Hi Kristen!
+We're going to use BackerKit for the add-on items - so once the campaign has ended and surveys are sent out, you'll be able to add on whatever you like to your current pledge!
+- Mayticks.
+Jess Knapp
+6 months ago
+Oh hell yeah! Loving these designs, seriously hoping we get them earrings
+Love me some skulls
+MayticksCreator
+6 months ago
+Hey Jess,
+Earring designs are coming very soon - stay tuned!
+- Mayticks
+Lauren Ring
+6 months ago
+Thank you for blessing us with this project ;^;
+Abby Roseberry Rice
+6 months ago
+Heck. Yes. *Crosses fingers for patches*",37
+142,1195984271,"Only backers can post comments. Log in
+Heavy Hands Co.Creator
+over 1 year ago
+I tried to budget shipping as best I could. Both items are fairly light weight. I will cover any extra shipping costs. :)
+Phyllis NgSuperbacker
+over 1 year ago
+Ah! Thank you so much! ❤️ shipping can be terribly expensive
+Heavy Hands Co.Creator
+over 1 year ago
+Hi Phyllis! Yes, I will ship internationally. I will be paying for all shipping of enamel pins/stickers for backers of this project!
+Phyllis NgSuperbacker
+over 1 year ago
+Hi there! Would you consider shipping internationally?",4
+143,1444764200,"Only backers can post comments. Log in
+Pat Raphael
+about 4 years ago
+Received the box today! Totally wonderful and happy to be a part of this! Keep up the good work!
+Jacqueline Sheppet
+about 4 years ago
+Arrived today! Thanks - better late than never and this was worth the wait!
+Well Inked BoxCreator
+about 4 years ago
+Hey Amanda!
+Like you mentioned, www.wellinkedbox.com is now up and running. We will be sending an email out to all of our subscribers soon.
+There is no way to ""postpone"" your signup date so if you're interested in receiving the second box I would suggest signing up after April 1st.
+Thank you for your support!
+Amanda Harris
+about 4 years ago
+Never mind its up and running! Oooops my bad!
+Amanda Harris
+about 4 years ago
+Hi there!
+Just wondering when you are going to have your website up and running? Looking forward to receiving the first box and was wondering how we will be able to order the following box if we only chose the one box pledge.
+Take care Amanda
+KalemSuperbacker
+about 4 years ago
+Hey guys, my father got his first box yesterday and he's very pleased with it! I'm excited for the next box.
+I'd imagine it's always going to be an on the fly situation when you're engaging new suppliers. I'd be interested in hearing some of the stories of the successes and the ""so this is what we learned when this blew up on us"" stories too. I backed the company because I like the idea, not just for a box of pens, so I'm interested in hearing the trials and tribulations of getting this thing off the ground.
+Well Inked BoxCreator
+about 4 years ago
+Hey Jacqueline!
+Due to some delays boxes were not shipped out until this week and have slowly started arriving in the hands of our backers. We could not be more excited!!
+Jacqueline Sheppet
+about 4 years ago
+Just wondering if anyone got their box yet? It says January but mine never arrived?
+MaryAnn Reichle
+over 4 years ago
+Way to go !! I knew you could do it !!
+Amanda Harris
+over 4 years ago
+So happy for you guys and I am very excited and can not wait! I think you have a great product here! I wish you all the best...HIGH FIVE! I also love it that you are Canadian!
+Take care,
+Amanda
+Shelley Dillman
+over 4 years ago
+Hey Well Inked Box folks! Just got the message that your project is a go! I'm so excited for you! Have FUN and can't wait to see what arrives in January! Woohoo!
+Amanda Harris
+over 4 years ago
+That's awesome! I think this is a great idea and I love the fact you are in Edmonton. I'm in Ontario so that makes us long distance neighbours! Thank you for getting back to me so quickly I do appreciate it. Sorry about the comment showing up three times I was on my cell.
+Take care
+Amanda
+Well Inked BoxCreator
+over 4 years ago
+Hey Amanda!
+The goal right now is to launch a website in January that will allow customers to purchase subscriptions, so after you receive your first box you will most certainly be able to extend your subscription.
+Amanda Harris
+over 4 years ago
+Hi there,
+Just wondering if you pledge for one box will you have the opportunity to purchase a subscription for the rest of the year after receiving the first initial box?
+Take care
+Amanda
+Amanda Harris
+over 4 years ago
+Hi there,
+Just wondering if you pledge for one box will you have the opportunity to purchase a subscription for the rest of the year after receiving the first initial box?
+Take care
+Amanda
+Amanda Harris
+over 4 years ago
+Hi there,
+Just wondering if you pledge for one box will you have the opportunity to purchase a subscription for the rest of the year after receiving the first initial box?
+Take care
+Amanda",16
+144,1329352092,"Only backers can post comments. Log in
+KittykatSuperbacker
+over 4 years ago
+Good luck!",1
+145,856691790,"Only backers can post comments. Log in
+Avinash MagdumSuperbacker
+over 4 years ago
+Yesterday, I received a package which contains Uno355 and UnoEVS, but it did not contain Uno8266 as per my pledge. Could you please send the Uno8266 at the earliest. I had pledged for Euro 34.
+Cristian Flores
+almost 5 years ago
+Have you guys shipped yet? I have not received anything yet...
+Cristian Flores
+over 5 years ago
+I can't wait for this! I am college student with not so much money, but I hope I can get the other components in future!
+This person has canceled their pledge. Show the comment.
+BlueberryECreator
+almost 6 years ago
+@clive klugman the basic idea was that every backer can get just one restricted reward, but if at the end not all restricted rewards are gone we will consider some additional appreciation. So it would be great if you switch to the 45Euro reward to get all three boards. Also shipment costs consist out of a base fee and 2Euros per board. Thank you very much for your support we will do our best to deliver a great product, please stay with us!
+BlueberryECreator
+almost 6 years ago
+@sigoreofwar great that you enjoy our uno335 for this particular reward we have a combo reward preproduction and massproduction run for a few Euros more you get two Uno335 and the best one the first (from the preproduction run) you get latest in October. In any case we will try to accelerate the schedule to deliver ahead of schedule. Best Regards Gerhard
+clive klugman
+almost 6 years ago
+i just pledged 47 for one of each super super early comprising 11+11+19 and 6 for freight to australia - is this ok. i cannot pledge for all 3 seperately
+This person has canceled their pledge. Show the comment.",8
+146,1329000338,"Only backers can post comments. Log in
+No comments yet.",0
+147,923681546,"Only backers can post comments. Log in
+Jeffrey Cox
+about 3 years ago
+Bon courage!",1
+148,1230612832,"Only backers can post comments. Log in
+No comments yet.",0
+149,465041186,"Only backers can post comments. Log in
+No comments yet.",0
+150,1917109203,"Only backers can post comments. Log in
+ROGER KLEIN
+over 2 years ago
+DISGUSTING JUST LIARS IN THIS FUCKING BAND
+TAKING THE MONEY AND DOING NOTHING I SPEND 500 DOLLARS ON A GUITAR AND I NEVER
+GOT IT YOU GUYS THINK I SHIT MONEY??????
+ROGER KLEIN
+almost 3 years ago
+what a bunch of liars and kickstarter does shit for people
+ROGER KLEIN
+almost 3 years ago
+when will i get the guitar or my money back? this is really disgusting how u treat ur supporters
+ROGER KLEIN
+almost 3 years ago
+why should i cannot christian went ? i have send the money to youuuu so u contact him and u make sure i ll get my paiement back incredible
+ROGER KLEIN
+almost 3 years ago
+SO KICKSTARTER WHERE S UR REPLY????????
+ROGER KLEIN
+almost 3 years ago
+i will make an official complaint for this i really have enough now
+ROGER KLEIN
+about 3 years ago
+2 1/2 years and just promises no guitar no dvd
+ROGER KLEIN
+over 3 years ago
+hello
+last mail before i officially put a complaint for not filling the contract i want my money back no guitar arrived here since 2 years
+ROGER KLEIN
+over 3 years ago
+I NEVER GOT THE GUITAR I ASKED MY MONEY BACK
+Charlie McAllister
+almost 4 years ago
+This is complete bullshit! No response, no explanation. I've purchased every CIIC, I don't even listen to them anymore because this is so disappointing. I know delays happen, stuff gets pushed back, life happens. It wouldn't even bother me if this was updated periodically and CIIC would respond in some way to these comments and concerns.
+Colleen
+about 4 years ago
+Well it's 2017 and there has been no update on this project. That really is disappointing. If there was something that caused the documentary to be delayed or scrapped it would have been nice to be informed. Tons of updates during the campaign, and nothing since. It's been 3 years....
+Michael Kizer
+about 4 years ago
+Hmm, i looks like the Facebook link below is dead.
+I wonder if this project is dead as well...
+Colleen
+over 4 years ago
+Hi Roger, I am sorry you did not receive your guitar, that stinks. I have received the rewards for my pledge, but I was just looking for an update on the actual project. There hasnt been any updates on that. Is it in process still? I was really interested in seeing this documentary completed. Sigh....
+ROGER KLEIN
+over 4 years ago
+NOW 1 YEAR IS GONE AND I STILL DON T HAVE MY GUITAR...POSTED HERE POSTED ON FACEBOOK MESSAGED THE MUSICIANS PERSONALLY......
+Colleen
+over 4 years ago
+PS- just a small reminder that not everyone uses facebook, so we arent getting the updates. Thanks!
+Colleen
+over 4 years ago
+Any updates on the project? We will be heading into 2017 soon ;-)
+ROGER KLEIN
+over 4 years ago
+helloooooooooooooo
+ROGER KLEIN
+over 4 years ago
+still nothing...not even an answer.....
+ROGER KLEIN
+over 4 years ago
+still no guitar here....i give up
+Circle II Circle (deleted)Creator
+about 5 years ago
+We're here! https://www.facebook.com/Circle-II-Circle-Dreams-That-Never-Die-Documentary-716225805120309/?ref=hl
+Stefan Poot
+about 5 years ago
+Where are you guys?.. I now regret being one of your supporter..
+William Grazioli
+over 5 years ago
+Hi guys ! Just wondering how are the rewards situation going. I have not received any rewards yet and I've seen that a lot of people have received theirs. Thanks !
+Jennifer booker
+over 5 years ago
+We have not received our rewards yet.
+Colleen
+over 5 years ago
+Hi...any new updates on the rewards and the project? Thanks :-)
+ROGER KLEIN
+almost 6 years ago
+i got nothing so far...can someone tell me?
+cheers
+Showing 25 of 27 comments
+Load more",27
+151,1406672974,"Only backers can post comments. Log in
+MiuPandaCreator
+11 months ago
+@Ashleigh Wangler: Yay! We are so close! 🥰 Thank you 💕",2
+152,166984936,"Only backers can post comments. Log in
+No comments yet.",0
+153,918435347,"Only backers can post comments. Log in
+Heather SouzaSuperbacker
+over 3 years ago
+Got mine today!
+Made With HugsCreator
+over 3 years ago
+@Robin Grace: ahh well thank you� and no, so far just going with princess peach! (:
+This person has canceled their pledge. Show the comment.",3
+154,1582068594,"Only backers can post comments. Log in
+DoubleU PublishersCreator
+almost 6 years ago
+Taken care of in the survey function.
+Taylor
+almost 6 years ago
+↓
+Michelle Paek
+almost 6 years ago
+So when will we be contacted for the address to send our pre-ordered copy to?",3
+155,2064062289,"Only backers can post comments. Log in
+No comments yet.",0
+156,151500671,"Only backers can post comments. Log in
+No comments yet.",0
+157,378219126,"Only backers can post comments. Log in
+No comments yet.",0
+158,1478212736,"Only backers can post comments. Log in
+Nick GribbonCreator
+4 months ago
+That’s great. Glad you’re happy! Thanks.
+Robert R. BowenSuperbacker
+4 months ago
+Hey Nick. I received the print and the book. They are both amazing. Thank you!!!
+Nick GribbonCreator
+5 months ago
+I’m very glad that you’re happy with it. Thank you for letting me know.
+Denise Woodward
+5 months ago
+Nick, I received my portrait today. It is beautiful. Thank you so much. I am going to frame it and give it to my husband for Christmas. It will be such a special gift.",4
+159,1491909210,"Only backers can post comments. Log in
+EsthaemCreator
+almost 4 years ago
+Hi Nial!
+First of all, thank you again for backing the project, I really appreciate you helping me make Until I Gush Forth a reality.
+I also truly appreciate your honest words and that you took the time to write such a long comment. I am sorry that you feel let down. I understand where your critique is coming from, but please let me explain a little bit of my thought process behind the points you mentioned:
+The choice to not include any text other than the poem at the beginning was a very deliberate one – I see UIGF as a visual poem that speaks through imagery and not words. Personally, I feel like the introductory poem sets the tone for the following images without imposing too much on the viewers and allows them to make their own conclusions about the project.
+The purpose of the zine was not to just showcase the images of the series, it was conceptualized to be the project itself, which is why I treated the whole design as if I was designing an exhibition – playing around with different image sizes, order and negative space. As the images themselves are already very dense it was important for me to give them room to breathe, hence the admittedly generous use of negative space.
+I feel like the zine-format allows for a much less traditional and more experimental approach to design than a conventional photobook. This is also the reason why some of the images I’ve decided to show are rather tiny – it was important for them to work within the visual context they are presented. The design itself went through various iterations which involved a lot of dummy producing in order to come closest to the vision I had in my head for this project.
+To be honest, this was my very first foray into crowd-funding and after reading your words I realize that I maybe should have given a little more background information on the project page in order to avoid people expecting to get something that I never intended to create. I’ve been working on this project intensely for such a long time so it was admittedly difficult to step outside my own head and look at the project with a neutral pair of eyes.
+Once again, thank you for making this project come alive and also for the kind words.
+Take care,
+Esthaem
+NialPSuperbacker
+almost 4 years ago
+The zine arrived today. Nice work turning this around and getting it out quickly.
+The screen printed banderole was a nice touch and looks great over the cover.
+I love how well this zine has been printed onto top quality paper stock at really high def.
+A couple of things I found a bit odd...
+I expected there to be some writing in there explaining your photographs further and telling the reader what was going through your mind at the time of capture. Even some titles would of been nice. Going through it was like reading through a magazine that had all the text missing from it. Your work is dep and complex and would definatly of benefitted from some writing or something to fill those big white gaps.
+Instead there is a LOT of blank spaces and even whole pages been left blank. If you had decided not to add any writing to accompany your work then you should of maybe used those blank pages and spaces to give the smaller photos a larger size or even add them to their own page and blow them up to full A5 size. Failing that then you could of added more art.
+Personally I think you really missed a trick by leaving all that beautiful HQ paper blank by not filling it with text or used it better to display your work in much larger scale as some of the photos are tiny and would of looked great if taken up to a larger size. Its a real waste of that lovely paper.
+I buy and read/go through alot of Zines of all types, shapes and sizes. I have to say that for a Zine costing €15 and using such beautiful paper and lavish decoration that I did feel it was a bit of a let down.
+The photos are fantastic and I did really enjoy them and got them, but alot were not given their full glory by you choosing to only print them in such small scale leaving pages and pages worth of that paper blank. Just some titles and a few words would of improved the experience greatly.
+I have a bunch of zines featuring similar photography and methods and they mostly all make use of ever square inch of paper, even if just printed on cheap 60gsm paper. Zine makers and photographers would kill to have the money to produce a zine on such nice paper with a great cover and screen printed surround and I know they would try to get as much of it filled... especially photographers where bigger is better (where as written and mainly text zines can become too crowded easily).
+Its great work and art but you really missed a trick by not filling those pages with your work.
+Sorry for the harsh criticism but I like to be honest and I did feel somewhat let down.
+Anyway. Thanks for seeing this through and getting it out. The work included is very good and I liked and related alot to what I could see you were expressing in your work.
+Cheers..",2
+160,275444000,"Only backers can post comments. Log in
+No comments yet.",0
+161,1872928681,"Only backers can post comments. Log in
+jofonseca
+over 5 years ago
+I wish much success to this CALpers campaign endeavor as we were in RI in acheving our established goal, since we were fortunate to be the first state in the country to get a forensic investigation done through crowdfunding by Ted. And for the first time we, the pensioners, had a report that exposed investment dealings that has been kept secret from us--the contributors of the RI State Pension ...secrets kept from us by the ex-fiduciary now governor Raimondo.
+With her ""still in place"" very low rate of return (significantly below benchmark) investments and now w/her successor, the new Treasurer, Seth Magaziner, still keeping those fixed 10 year term equity, real estate & hedgefund poor performance investments in place, we, RI pensioners can now see for ourselves through Ted's forensic analysis investigation why we need the SEC, the IRS, the federal AG and other federal entities to investigate her dealings since Gov Raimondo has never been transparent and has been protective of Wall St rather than be protective of her RI citizenry. Hopefully your successful CALpers analysis will bring about changes if need be, since I don't see that ever happening in RI. Good luck to this CALpers Investigation",1
+162,943100773,"Only backers can post comments. Log in
+Sherry & Barry Kaufman
+almost 6 years ago
+Jared...it was a privilege to be with your parents the night you shared your passion for taking this incredible journey. Keep up the great work...you're really a special person! Be safe~
+Allison, Jay and Alexa Reichbaum
+almost 6 years ago
+We are so thrilled and proud to call you FAMILY!!! You are an amazing human being and WE LOVE YOU!!!! Be safe out there xxxxxooooo
+Mychaela Miller
+almost 6 years ago
+We are very excited about your journey. This is such a creative idea, be alert and be careful! Best regards, Jojo and Papa (Todd's Mom and Dad)
+Joselyn Miller
+almost 6 years ago
+J - You are blowing my chemo-impaired mind! You and your journey are AWEandthenSOME! Love you and what you're doing, and I'm honored to play a small part.
+David Reichbaum
+almost 6 years ago
+Epic. Keep touching lives amigo!
+Richard Miller
+almost 6 years ago
+Jared, you are an inspiration and I'm excited to be a small part of your journey. Thank you for always following your passions.
+casey vogel
+almost 6 years ago
+Go Jared! You are awesome!",7
+163,1771063270,"Only backers can post comments. Log in
+Scott A. Smith
+almost 9 years ago
+Using KickStarter is a great idea, James!",1
+164,1461765929,"Only backers can post comments. Log in
+Taylor Garcia
+3 months ago
+So I'm moving by the end of this month and so my address is going to be different, how would I be able to change the shipping address?
+DanaCreator
+3 months ago
+You can change via the same link you used to fill the survey, I still haven't locked addresses. If you need further assistance with it please private message me your information.
+Nico LynnSuperbacker
+4 months ago
+Sorry if this is a bad question, I just wanted to confirm, I'm pledging for 10 pins but I also want the last three, so would I add $33 to my pledge?
+DanaCreator
+4 months ago
+These are the rates for additional pins:
++ $9 per pin for early birds
++ $11 per pin for everyone else
++ $3 shipping if you're adding 1 to 4 pins
++ $5 shipping if you're adding 5+ pins
+thank you so much ^-^
+Patrick Sun
+5 months ago
+Hi,
+Sorry I'm still a bit confused. I am pledged as an early backer. If I also want to get the First Collection pins I should NOT pledge an extra $9? I should wait till the Kickstarter ends and on the survey you will have an option for us to choose the First Collection pins? Or is it the other way around?
+DanaCreator
+5 months ago
+No you shouldn't. The first collection is not part of this kickstarter, any funds you add for this kickstarter will only be used for these pins. I am simply giving people the option to purchase the pins from the first collection AFTER the kickstarter ends to have combined shipping but kickstarter rates and pledges won't apply for the first collection.
+Patrick Sun
+5 months ago
+Thank you! This clears it up and also thank you for the update. It also answered my next question about payment for the First Collection pins. Thank you!
+DanaCreator
+5 months ago
+I am glad could help ^-^ let me know if you have any more questions ♡
+OliviaSuperbacker
+5 months ago
+Hi Dee!
+I'm so glad to be part of another one of your campaigns! I decided to add another pin to my pledge, and since I'm an early bird, I added $9, plus $3 to my original pledge, for a total of $28. Is that right? I just wanted to be sure :)
+DanaCreator
+5 months ago
+That sounds right ^-^ Thank you so much for the support! ♡ ♡",10
+165,249877281,"Only backers can post comments. Log in
+Deb Epstein
+almost 4 years ago
+Congratulations Sami Brothers!! So happy to be able to help you reach your goal! So excited for your project ❤️
+Cindy Rothfeder
+almost 4 years ago
+Congratulations on meeting your goal! So happy for you. xo
+Ben RosenthalSuperbacker
+almost 4 years ago
+Any comments on beating your initial goal with two weeks to spare? Got a stretch goal for the road to freedom?
+Sandra Mederos
+almost 4 years ago
+All the love and blessings to you my brothers!! Home stretchhhhhh ���
+Ben RosenthalSuperbacker
+about 4 years ago
+What have you been up to the last couple weeks? What's new in your music journey? I'd love to see a significant summary or a couple anecdotes from your time.
+Jessica Kornick
+about 4 years ago
+Much love, strength, and support to you - Jessica & Megan",6
+166,1951782425,"Only backers can post comments. Log in
+No comments yet.",0
+167,1190486323,"Only backers can post comments. Log in
+Julia TaylorSuperbacker
+9 months ago
+A stretch goal idea: print in two sizes, the size you are already doing, and a petite size (Maybe 1 1/2”?) available too. Everyone gets at 4 petite size stickers, at the stretch goal amount, and backers can add sets of 10 for $X amount per set.
+It allows the design to stay the same, while giving people more options, and we might up our pledges to add in the petite sets! 😘
+Lea Poole PT
+10 months ago
+i was gonna ask if the stickers would be suitable for cars
+Masha FalkovCreator
+10 months ago
+Hi Lea! That's my intent. I'd hate for the stickers to fade or get scratched up too easily, so I figured it would be safer to get some testers made up.
+Cheers!
+Lea Poole PT
+10 months ago
+Amazing thank you",4
+168,2059005883,"Only backers can post comments. Log in
+No comments yet.",0
+169,588788395,"Only backers can post comments. Log in
+No comments yet.",0
+170,1992609436,"Only backers can post comments. Log in
+No comments yet.",0
+171,1602627118,"Only backers can post comments. Log in
+E Book Author ""Quail Notes"" on Amazon
+almost 7 years ago
+We have lots of golden toads here in Hawaii.",1
+172,596529739,"Only backers can post comments. Log in
+Anthony J. Lusardi III
+about 5 years ago
+Whatever happened to this? lol Kinda died out eh?
+Mike Sleva
+over 7 years ago
+New stuff sounds great so far. Plans for a west coast tour?
+GunFight!Creator
+over 7 years ago
+Hey Blake, thanks so much for checking in. Things are going great, albeit recording has taken a little longer than we anticipated. It has been a real labor of love though. We have spent a lot of time experimenting and getting everything to sound just right. And furthermore we definitely couldn't have given the album this much attention without you and everyone's support. We're very excited for it all to be done and for our friends and fans to hear it. We are actually heading into the studio tonight to begin our first mixing session. Should be a lot of fun.
+We'll try to keep you posted as much as we can, but feel free drop in again any time and ask us how we're doing.
+OH, and if you haven't seen this yet, here is a video we uploaded of us in the studio. It contains a bit of a new song called ""An American In Brooklyn."" ENJOY!
+http://youtu.be/DVw-E1yED-s
+Blake Barber
+over 7 years ago
+Hey guys! Just wanted to see how things are going with the new album. I'm pretty excited about it!",4
+173,60470906,"Only backers can post comments. Log in
+No comments yet.",0
+174,1617611638,"Only backers can post comments. Log in
+No comments yet.",0
+175,1719875514,"Only backers can post comments. Log in
+No comments yet.",0
+176,1413129393,"Only backers can post comments. Log in
+No comments yet.",0
+177,468412077,"Only backers can post comments. Log in
+Adam
+over 4 years ago
+My package arrived yesterday; thanks!
+Incarna ComicsCreator
+almost 5 years ago
+Thanks for your support Miles!
+Miles WilburnSuperbacker
+almost 5 years ago
+Thank you for all the hard work!
+Miles WilburnSuperbacker
+almost 5 years ago
+Loved the story and the art was also fantastic! Can't wait to get the soft cover!",4
+178,1391624250,"Only backers can post comments. Log in
+No comments yet.",0
+179,2056936778,"Only backers can post comments. Log in
+No comments yet.",0
+180,1608517572,"Only backers can post comments. Log in
+Tony Holewinski
+over 5 years ago
+Congrats on funding the project! Can't wait to see the results!",1
+181,605561624,"Only backers can post comments. Log in
+Sandra Crump
+almost 8 years ago
+Got the download earlier! Love all the songs I've listened to so far.
+Here Come The MummiesCreator
+almost 8 years ago
+Brilliant, Bonnie! Thanks a $M for the helpful advice!
+Love, HCTM
+Translated by NQFD IV
+Bonnie A Dutcher
+almost 8 years ago
+Hi HCTM staff,
+I completed the survey and didn't have any problems with viewing or interacting with it.
+However, for those that have had problems, besides clearing the browser cache, and enabling cookies (as you already suggested), other things that can be done to solve this problem include:
+1) Disabling any Pop-Up Blocker that is preventing user from opening/viewing the survey.
+2) Reduce Security settings to ""Low"" on their computer to enable them to open the survey.
+3) Turn off their Firewall protection long enough to open the survey. The Firewall is within their security settings on their computer- go into Window's Security on their computer to disable. Remind them to remember to re-enable their Firewall when they are finished!!
+4) If using an Apple computer, the user may need to Reset Safari. To do this, the user must click on ""Safari"" in the top menu bar, then click ""Reset Safari"" from the drop down menu. Now they can log back into their e-mail account and try to open the survey again.
+Hope this helps!
+Gareth
+almost 8 years ago
+Hell ya guys we did it! Thanks HCTM for this awesome campaign. I have to say, if you hadn't announced your kickstarter at our show @ George's in Fayetteville, AR, I would not have known. I LOVE you guys, but never would've checked for this. That said, it's a GREAT way to get support, and congrats on the success. Love you guys, I've seen you several times, including Wakarusa, thanks for tearing it up on a Sunday!
+PS, anyone have any cool ideas for my voicemail greeting? ^_^
+Cathy Pierce
+almost 8 years ago
+Way to go, this is awesome. Congrats, guys!!
+Sandra Crump
+almost 8 years ago
+You can't see it but I'm doing my happy dance over here. Congrats, guys!
+Roy Bishop
+almost 8 years ago
+Congratulations, guys! You deserve every penny! Can't wait to let my Freak Flag fly in Hanover, MD!
+Niranth
+almost 8 years ago
+While $69,069 would have been a funny amount to end upon, this is even better!
+This person has canceled their pledge. Show the comment.
+Lisa Carter
+almost 8 years ago
+Bumped up the backing with love!!! Congrats, boys! The future is looking bright :)
+Sean M
+almost 8 years ago
+I took Phillip's advice, and dug an extra $10 out of the couch cushions for the guys. Someone needs to remind me to do that more often! It was like a disgusting fuzz/hairy/dusty fart time capsule in there. Much like a crypt! But, they are worth the extra effort.
+Congratulations Mummies!
+See you in Bloomy, and TH!!
+Phillip Adkins
+almost 8 years ago
+Hey guys its awesome to see that you exceeded your goal. You guys deserve every penny for the entertainment you provide and the devotion you show to your fans. You are truely a remarkable group of musicians (even if you do smell a little funny). Hopefully you get promoted in such a way that many more will get to experience one of the greatest ""Wonders of the World - HCTM"" We all love ya and I look forward to the 4 shows I have booked for this summer. ""Long Un-Live Here Come The Mummies""
+Mullinsky
+Reino
+almost 8 years ago
+Congrats, you bandaged wonders! We <3 you!
+James Mark Sizelove
+almost 8 years ago
+Hey guys I know you're watching the totals and would like to say congrats. You deserve it. I have been to 2 of your shows and had the time of my life, The most fun you can have with your clothes on.
+Patricia
+almost 8 years ago
+All mummettes and mummies request the following to play HCTM ""Live Undead Concert"" this channel is where I first saw HCTM and hooked and still playing Petting Zoo Can't get enough.
+www.axs.tv/programs/concert-series-Cached
+Phunky Pharaoh
+almost 8 years ago
+Ok, babies! Little over 24 to go and we're already over 75K. I just upped my pledge a little bit. If 700 backers each gave 8 bucks more, we could put this over $80,000! And I can't think of a more deserving group of guys in the business to give your support to. So, give what you can........and let's rickroll this sucker!
+$80,069.........here we come!
+Patricia Porter
+almost 8 years ago
+Just noticed that the majority of the pledges end in the numbers 69. Now what do you suppose that number signifies? Very cute guys!!
+Jeannie Pierce
+almost 8 years ago
+I LOVE THIS BAND!!!
+Phillip Adkins
+almost 8 years ago
+Hey everyone it looks like one week to go. I know its tough times and everyone has more than likely given what they could but keep in mind that you can add a little more to your pledge and still keep the same gift that you chose. If we all find that we can scrounge for change in the couch or behind the car seat maybe we can add $10 or $20 to what each of us had pledged. Imagine if we all bumped another $20 we would make a noticeable impact. Let's try and make this week count. Let's make that final push for such a great band. :)
+Niranth
+almost 8 years ago
+@Chuck, while I get the reference, I do not think ""Bosco"" would be the drink of choice. But would the boys of Funk drink?
+Chuck Barger
+almost 8 years ago
+Really cool idea, just hope the decoder ring doesn't say ""drink Bosco""
+Austin Hall
+almost 8 years ago
+I'm going to see you guys on Friday in Pittsburgh! Can't wait. Funk never dies.
+John Paul Stout
+almost 8 years ago
+I'm proud to be a backer! This album will truly be something special!
+Funk on,
+JP in Atlanta
+(The Cat in the Hat)
+Zack
+almost 8 years ago
+For one, I'm incredibly excited for the new album to come out. Also, would you guys consider using some of the extra funds to press the new album onto vinyl? If you could, I'd totally buy it.
+Keep Being Funky,
+Zack
+Sean M
+almost 8 years ago
+Carole and I are ready to get FUNKY in Bloomington/Normal, and Terre Haute. She is going to fart some serious dust when she sees the framed song lyrics I got for her. (Shhhhhh, she does not know yet)
+I'm ready for a sneak peek at the new jams!
+Congrats, you are a amazing, talented bunch of (mummified) guys, you funk like no other, and you know we love you!
+Showing 25 of 64 comments
+Load more",64
+182,2112307601,"Only backers can post comments. Log in
+Bossy Fox ProductionsCreator
+over 2 years ago
+Hello, Hamed - thank you for all of this information ! We will follow up with you separately about these stories !
+hamed sadat
+over 2 years ago
+His childhood friend still has his harmonium with him. YouTube... most information you guys can get from him. Elderly ( white hair, hazaraa Tajik looking ) very genuine friend of Ahmad Zahir ... contact him
+hamed sadat
+over 2 years ago
+Like to see Shabnaam Zahir on documentary and Rishad zahir
+hamed sadat
+over 2 years ago
+Rishad Zahir ?
+hamed sadat
+over 2 years ago
+Please include his new jokes :)
+Tape recording on YouTube with his wife and in it includes 2-3 funny jokes someone recently about a month ago posted.
+hamed sadat
+over 2 years ago
+During the 70’s he sang for the Shahs of Iran. Only him, his tabla player and maybe another person allowed to perform. The King & Queen were very much entertained. When they were departuring from Iran an interviewer from an Iranian television asked Ahmad Zahir to stay for another week. During this week he may have gotten filmed or something. The company name of that particular Iranian Co is mentioned on YouTube by his Tabla player.",6
+183,476198466,"Only backers can post comments. Log in
+Kathleen Greco - Jelly Yarns
+over 7 years ago
+yay...congrats lov AK
+Kathleen Greco - Jelly Yarns
+over 7 years ago
+Love your project... your Kickstarter will be a success! lov AntK",2
+184,899856116,"Only backers can post comments. Log in
+Mikey LanceCreator
+over 1 year ago
+@Frederic Lehman: Hi Fredric, no not a scam, just taking long in the edit. See the Facebook or Instagram page for most recent, update. Thanks
+Frederic LehmanSuperbacker
+over 1 year ago
+So what's up with this movie? Was it a scam?
+Steven MSuperbacker
+about 3 years ago
+Bit quiet... any update?
+Mikey LanceCreator
+almost 5 years ago
+Hi Chris, Actually... yes! We're cutting a video update to upload tomorrow! - Mikey
+Chris Leith
+almost 5 years ago
+Any update guys?
+Gabriel Jagush
+over 5 years ago
+Congrats! I am so excited to see how the movie will end up!
+William
+over 5 years ago
+Congratulations, sounds great. Try not to give too many spoilers out on radio ;)
+Andrew Fritz
+over 5 years ago
+Congrats man!
+jakob
+over 5 years ago
+almost 10000 now you made it
+Tony Fling
+over 5 years ago
+Looks good! Can't wait to see it.
+Mikey LanceCreator
+over 5 years ago
+Thanks Melisande, we're very excited too!
+Melisande Bliss
+over 5 years ago
+This looks awesome! Hope you meet your goal. Can't wait to see how the film comes out. Cheers!
+Prisca
+over 5 years ago
+Oh yes! Let's go Mikey!",13
+185,1590038826,"Only backers can post comments. Log in
+No comments yet.",0
+186,649933381,"Only backers can post comments. Log in
+Wayne TurnerSuperbacker
+over 2 years ago
+I have logged a complaint with Kickstarter. If everyone does the same, we might get our money back!
+Heather WilmesSuperbacker
+about 2 years ago
+You will not get your money back according to Kickstarter due to the creator's death.
+Austin Allen HamblinSuperbacker
+almost 3 years ago
+Anyone know whats going on with this...?
+Ian
+about 3 years ago
+Will there be any more progress created for this?, will get our money back?, or will it just sit here?
+Max Dufrechou
+over 3 years ago
+Seconding Beltram, any chance there's a completed digital file.
+Jason Beltram
+over 4 years ago
+Just wandered in seeing what happened to this; very sad to hear the news. RIP.
+Heather WilmesSuperbacker
+over 4 years ago
+@Lynn I do wonder if there is someone in the estate that will take over. I am presuming this was already made. There are pictures of it on his facebook page.
+LynnSuperbacker
+over 4 years ago
+@Heather Williams, I had been wondering about what had happened to the project, but had just assumed that, like many KickStarter projects, it was just running extremely late. I am so sorry to hear the true reason there have been no updates.
+Heather WilmesSuperbacker
+over 4 years ago
+I would imagine we will not be getting out product.
+Rest In Peace MICHAEL HUDSON: I'm so saddened at the unexpected loss of Michael R. Hudson on July 8th, 2016. We had known each other for years and shared much in common including our love of Edgar Rice Burroughs, Frazetta, old pulp magazines, etc. I had served as an occasional consultant to him in his ReelArt Studios and Sequential Pulp projects. I last saw him in February, 2016 at Rich Harvey and Audrey Parente's Pulp AdventureCon in Ft. Lauderdale where Michael and I were planning new Frank Frazetta and Wallace Wood sculpture projects. The loss of Michael, like Herb Trimpe not too long before, reinforces my desire to be kind to everyone — as we may never get to see them again.
+Abhinav Semwal
+over 4 years ago
+Hi... Just wanted to confirm the shipping estimate?
+Heather WilmesSuperbacker
+over 4 years ago
+Hello! I hope the project is going well. I am inquiring on shipping estimate. I just want to verify that you have not submitted a survey yet for address information.
+Thanks!
+Mary Ann Back
+almost 5 years ago
+I'm truly happy for the success of your project and I'm glad to have been a part of making that happen. Now, go keep those Martians happy please. I shudder to think what would happen otherwise! - Mary Ann Back
+Ian
+almost 5 years ago
+Can't wait to read it!
+Michael R. HudsonCreator
+almost 5 years ago
+I want to heartily thank everyone publicly who backed this project! Every penny given was needed and a huge blessing to me in getting this book printed.
+This being our first book apart from Dark Horse Comics I know I have some huge shoes to fill as a publisher. I do believe that I chosen the right printer based on their incredible long term relationship with both DC and Marvel. That being said, I expect no drop off in the quality of our books from the ones Dark Horse was putting out under the Sequential Pulp Comics Imprint.
+This project began in 2008 and YOU have made it a reality. gosh, it is a dream come true! As I gather information to prepare to send out premiums here is what I am going to ask that you do If you will and can. Here is the Diamond PREVIEWS June solicitation information.
+June PREVIEWS Item Code: JUN161727 Release Date: 08/31/16 SRP: $19.99 Hardback
+Please call your local comic book store just as soon as you can and ask them if they will carry at least one copy of the book. Give them the information above so they will not have to hunt it down in their massive catalog. I KNOW this is asking a lot of you but it will make a huge impact on Sequential Pulp being able to continue to publish books if we have good sales on Fredric Brown's Martians, Go Home. You've brought us this far and this would be the icing on the cake for Lowell Isaac, David Hopkins and me.
+You can expect to hear from me soon regarding your premium.
+Thanks again!—
+Michael
+Jodi Renée Lester
+almost 5 years ago
+Congratulations!!!",15
+187,601229761,"Only backers can post comments. Log in
+Natasha McWilliams
+over 6 years ago
+Hi, any chance there will be an update soon? Thanks :)",1
+188,1214124076,"Only backers can post comments. Log in
+PASCAL LAURIE
+almost 3 years ago
+felicitación !!!",1
+189,544084953,"Only backers can post comments. Log in
+No comments yet.",0
+190,899704769,"Only backers can post comments. Log in
+Arnela BektasSuperbacker
+3 months ago
+Got my pins today <3 <3 <3 !!",1
+191,1939323710,"Only backers can post comments. Log in
+No comments yet.",0
+192,1293421954,"Only backers can post comments. Log in
+No comments yet.",0
+193,390142964,"Only backers can post comments. Log in
+Gilles Cormier
+15 days ago
+Toute mes felicitation Phil!
+Tu le merite .
+François JACOB
+over 1 year ago
+Bravo Phil pour un merveilleux projet cinéma dont je sais déjà s'avèrera et connaîtra UN BEAU SUCCÈS comme toujours! Bien content d'avoir pu y apporter ma modeste contribution. Bon tournage dans le cadre du CMA 2019! P.S. Je te donne des nouvelles récentes d'une bien bonne et très généreuse amie à toi, notre grande comédienne acadienne VIOLA LÉGER… à qui j'ai rendu visite le 29 juin dernier, à l'occasion de son 89e anniversaire de naissance. Au cours des 12 années pendant lesquelles j'ai eu le bonheur de m'occuper de ses nombreuses archives, etc., elle m'aura souvent parlé de toi. Très hâte de visionner de fameux documentaire acadien. François J.
+Jean-Marie Comeau
+over 1 year ago
+Très heureux que l'objectif aie été atteint. Très heureux de cette suite. Merci pour ton engagement Phil.
+Lucie LeBlanc Consentino
+over 1 year ago
+Bravo! C'est merveilleux. May this project move forward smoothly. Thank you Phil Comeau for undertaking this new project.",4
+194,1203592584,"Only backers can post comments. Log in
+This person has canceled their pledge. Show the comment.
+CarlCreator
+9 months ago
+I can change the shipping to the UK! =]
+CarlCreator
+9 months ago
+Its updated!",3
+195,1191911552,"Only backers can post comments. Log in
+William finlay
+almost 2 years ago
+Well done Rees proud of you grandad wallace
+Emporium Purgatorio
+about 4 years ago
+Nicely done! Congrats �
+David Court
+about 4 years ago
+Brilliant. Well done. Rees.
+Nana June
+about 4 years ago
+He did it ��
+Natalie K. Parkinson
+about 4 years ago
+I've really been looking forward to this! All the luck to you! :)
+Aubrey Nicole Aguilar
+about 4 years ago
+May all of your dreams come true! I wish you Love!
+This person has canceled their pledge. Show the comment.
+Emporium Purgatorio
+about 4 years ago
+So looking forward to this. Much respect Rees on putting all of you out there for all of us.",8
+196,476297496,"Only backers can post comments. Log in
+Aaron AndersonSuperbacker
+7 months ago
+I received my pledge in the mail today. Thank you for the wonderful books; my daughter will love coloring them. I appreciate a smooth and fabulous campaign.",1
+197,1738753136,"Only backers can post comments. Log in
+No comments yet.",0
+198,257632263,"Only backers can post comments. Log in
+No comments yet.",0
+199,45519724,"Only backers can post comments. Log in
+Jaymz BernardCreator
+almost 4 years ago
+@jmonty Thanks! I'm happy it arrived! ^_^ I hope you enjoy the book!
+jmonty
+almost 4 years ago
+Got my book and it looks great! Love the DS sketch! :)",2
