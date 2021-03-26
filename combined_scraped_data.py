@@ -1,5 +1,6 @@
 import pandas as pd 
 import glob
+from datetime import datetime
 
 # Use cleaned dataset as the base datatable 
 dataset = pd.read_csv('Clean_data/Kickstarter.csv').drop('Unnamed: 0', axis=1)
@@ -38,5 +39,6 @@ for data in data_to_be_combined:
 
 # We only use 1000 data points
 dataset = dataset.iloc[0:1001,]
+dataset['duration'] = dataset['deadline'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S")) - dataset['launched_at'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S"))
 
 dataset.to_csv("Output/Combined_dataset.csv")
