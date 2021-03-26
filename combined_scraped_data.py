@@ -36,4 +36,7 @@ data_to_be_combined = [story, faq, comments] # add in FAQ when data has 'id'
 for data in data_to_be_combined:
   dataset = dataset.merge(data, left_on = 'id', right_on = 'id', how = 'left')
 
+# We only use 1000 data points
+dataset = dataset.iloc[0:1001,]
+
 dataset.to_csv("Output/Combined_dataset.csv")
