@@ -1,3 +1,4 @@
+
 import pandas as pd 
 import glob
 from datetime import datetime
@@ -5,7 +6,6 @@ from datetime import datetime
 # +
 # Use cleaned dataset as the base datatable 
 dataset = pd.read_csv('Clean_data/Kickstarter.csv').drop('Unnamed: 0', axis=1)
-dataset['id'] = dataset['id'].apply(lambda x: str(x))
 
 dataset.index.name = 'id_row'
 dataset = dataset.reset_index()
@@ -20,7 +20,7 @@ def combine_multiple_csv(files):
     if 'Unnamed: 0' in data.columns:
       data = data.drop('Unnamed: 0', axis=1)
     combined_files = combined_files.append(data)
-  combined_files['id'] = combined_files['id'].apply(lambda x: str(x))
+  combined_files['id'] = combined_files['id'].apply(lambda row: int())
   return combined_files
 
 # Add in story text
@@ -73,19 +73,11 @@ data_to_be_combined.tail(1)
 dataset = pd.merge(dataset, data_to_be_combined, on='id_row', how='left')
 dataset = dataset.iloc[:1000]
 
-<<<<<<< main
 dataset['duration'] = dataset['deadline'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S")) - dataset['launched_at'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S"))
 
 print(dataset.columns)
 dataset
 
 
-=======
-# We only use 1000 data points
-dataset = dataset.iloc[:1000]
-dataset['duration'] = dataset['deadline'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S")) - dataset['launched_at'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S"))
-
-print(dataset.shape)
->>>>>>> main
 
 dataset.to_csv("Output/Combined_dataset.csv")
