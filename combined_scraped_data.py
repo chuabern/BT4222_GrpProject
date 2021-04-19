@@ -71,7 +71,7 @@ data_to_be_combined = data_to_be_combined.reset_index()
 data_to_be_combined.tail(1)
 
 dataset = pd.merge(dataset, data_to_be_combined, on='id_row', how='left')
-dataset = dataset.iloc[:1000]
+# dataset = dataset.iloc[:1000]
 
 dataset['duration'] = dataset['deadline'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S")) - dataset['launched_at'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S"))
 
