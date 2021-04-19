@@ -75,8 +75,10 @@ dataset = pd.merge(dataset, data_to_be_combined, on='id_row', how='left')
 
 dataset['duration'] = dataset['deadline'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S")) - dataset['launched_at'].apply(lambda x: datetime.strptime(x, "%Y-%m-%d %H:%M:%S"))
 
-print(dataset.columns)
-dataset
-
+dataset['story'] = dataset['story'].fillna('NA')
+dataset['faq'] = dataset['faq'].fillna('NA')
+dataset['num_faq'] = dataset['num_faq'].fillna(0)
+dataset['comments'] = dataset['comments'].fillna(" ")
+dataset['n_comments'] = dataset['n_comments'].fillna(str('0'))
 
 dataset.to_csv("Output/Combined_dataset.csv")
