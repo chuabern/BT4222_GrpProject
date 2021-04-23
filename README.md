@@ -47,3 +47,5 @@ Our models are:
 
 Models are saved in output files as `{model}.pckl`
 
+# Stacking
+We perform stacking on all our models in `Ensemblestacking.ipynb`
